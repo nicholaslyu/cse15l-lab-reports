@@ -1,10 +1,10 @@
 ## Tutorial for Incoming CSE15L Students
 
 ####Step 1 Your CSE15L Account
-Visit https://sdacs.ucsd.edu/~icc/index.php, and follow the instruction from here [Tutorial](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view) to lookup your account and reset your password.
+Visit [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php), and follow the instruction from here [Tutorial](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view) to lookup your account and reset your password.
 
 ####Step 2 Download VScode
-Visit Visual Studio Code website https://code.visualstudio.com/, and follow the instructions to download and install it on your computer. Versions for Windows and Mac are both available.
+Visit Visual Studio Code website [https://code.visualstudio.com/](https://code.visualstudio.com/), and follow the instructions to download and install it on your computer. Versions for Windows and Mac are both available.
 **Note**: If you don't want to use or cannot your own machine, you can use the VScode on any computers from the lab room. 
 
 When you successfully download and install Vscode. You will be able to open a window that looks like the screenshot below.
