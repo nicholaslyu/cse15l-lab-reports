@@ -26,8 +26,8 @@ You can use **Terminal** from your softwares or open your **VScode** and open a 
  ``$ ssh youraccount@ieng6.ucsd.edu``
 
  For example: 
- cs15lsp23zz is my account name for CSE15L
- ``$ ssh cs15lsp23zz@ieng6.ucsd.edu``
+ cs15lsp23rv is my account name for CSE15L
+ ``$ ssh cs15lsp23rv@ieng6.ucsd.edu``
 
  **Note**: when we write the $, that’s not for you to type in! It’s just a convention for how we write commands
 
