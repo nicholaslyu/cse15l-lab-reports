@@ -1,16 +1,16 @@
 ## Tutorial for Incoming CSE15L Students
 
-####Step 1 Your CSE15L Account**
+####Step 1 Your CSE15L Account
 Visit https://sdacs.ucsd.edu/~icc/index.php, and follow the instruction from here [Tutorial](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view) to lookup your account and reset your password.
 
-####Step 2 Download VScode**
+####Step 2 Download VScode
 Visit Visual Studio Code website https://code.visualstudio.com/, and follow the instructions to download and install it on your computer. Versions for Windows and Mac are both available.
 **Note**: If you don't want to use or cannot your own machine, you can use the VScode on any computers from the lab room. 
 
 When you successfully download and install Vscode. You will be able to open a window that looks like the screenshot below.
 ![Vscode](vscode.png)
 
-####Step 3 Remotely Connecting**
+####Step 3 Remotely Connecting
 In this section, we’ll see how to use VScode/terminal to connect to a remote computer over the Internet to do work there.
 **For Windows Users**
 If you have **Git** installed on your windows computer, you can ignore this step. 
