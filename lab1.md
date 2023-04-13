@@ -38,7 +38,8 @@ You can use **Terminal** from your softwares or open your **VScode** and open a 
  ![Password](password.png)
 
  **Note**: When you are entering your password, you wouldn't be able to see it. You can also copy and paste your password from otherwhere.
-
+ 
+ 
  #### Step 4 Run Some Commands
  Try running some commands **cd**, **ls**, **pwd**, **mkdir**, and **cp** a few times on both the remote computer and your local computer and observe the results.
 
