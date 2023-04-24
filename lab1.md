@@ -52,6 +52,16 @@ Try running some commands **cd**, **ls**, **pwd**, **mkdir**, and **cp** a few t
 * ``cat /home/linux/ieng6/cs15lsp23/public/hello.txt``
 ![Command](command.png)
 
+Some explanation:
+* ``cd``: This command is used to change your current directory. 
+* ``cd ~``: This command is used to change your directory to home directory.
+* ``ls``: This command is used to list the files (except for hidden files) in your current directory
+* ``ls -lat``: This command is used to show all the files in your current directory and their additional information (eg: modifield date, who modified it, etc). Files are shown sorted by their modification time. 
+* ``cat``: This command is used to concatenate files, but it is mostly used to show the contents inside a file. 
+* ``cat /home/linux/ieng6/cs15lsp23/public/hello.txt``: This command is used to print out the contents in ``hello.txt``.
+
+
+
 **Note**: After you finish, you can type **Ctrl+D** or type **exit** in the command line to exit to your local machine.
 
 
