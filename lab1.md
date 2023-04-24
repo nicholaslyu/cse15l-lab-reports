@@ -43,13 +43,13 @@ You can use **Terminal** from your softwares or open your **VScode** and open a 
 Try running some commands **cd**, **ls**, **pwd**, **mkdir**, and **cp** a few times on both the remote computer and your local computer and observe the results.
 
  Here are some useful commands to try:
-* cd ~
-* cd
-* ls -lat
-* ls -at
-* ls \<directory> where \<directory> is home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username
-* cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
-* cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+* ``cd ~``
+* ``cd``
+* ``ls -lat``
+* ``ls -at``
+* ``ls \<directory>`` where ``\<directory>`` is ``home/linux/ieng6/cs15lsp23/cs15lsp23abc``, where the abc is one of the other group members’ username
+* ``cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/``
+* ``cat /home/linux/ieng6/cs15lsp23/public/hello.txt``
 ![Command](command.png)
 
 **Note**: After you finish, you can type **Ctrl+D** or type **exit** in the command line to exit to your local machine.
