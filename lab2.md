@@ -20,6 +20,7 @@ Screenshot of ``StringServer.java``
 
 ### Part 2
 Bug: ``reverseInPlace`` method in ``ArrayExamples.java``
+
 **Failure-inducing input**
 <pre><code>
     @Test
