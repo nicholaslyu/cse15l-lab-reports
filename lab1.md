@@ -12,6 +12,7 @@ When you successfully download and install Vscode. You will be able to open a wi
 
 ### Step 3 Remotely Connecting
 In this section, we’ll see how to use VScode/terminal to connect to a remote computer over the Internet to do work there.
+
 **For Windows Users**
 If you have **Git** installed on your windows computer, you can ignore this step. 
 Otherwise, go to [Git windows](https://gitforwindows.org/) to install **Git** to your machine.
