@@ -179,7 +179,7 @@ technical/911report/preface.txt:0
 ``grep -L --files-without-match "defense" technical/911report/*.txt``
 ``-L --files-without-match`` displays the file names that does not contains the input string.
 <pre><code>
- (base) nicholaslyu@your-ex docsearch % grep -L --files-without-match "defense" technical/911report/*.txt 
+(base) nicholaslyu@your-ex docsearch % grep -L --files-without-match "defense" technical/911report/*.txt 
 technical/911report/chapter-13.2.txt
 technical/911report/chapter-5.txt
 technical/911report/chapter-7.txt
