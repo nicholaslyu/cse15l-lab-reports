@@ -170,9 +170,9 @@ technical/911report/chapter-9.txt:2
 technical/911report/preface.txt:0
 </code></pre>
  I want to see how many lines in each documment containing the word ``defense``. If I want to research more about ``defense``, I can directly go into the file that has biggest number of lines displayed.
-
- ### Option4
- ``grep -L --files-without-match``
+ 
+### Option4
+``grep -L --files-without-match``
 
  **Example1**
  ``grep -L --files-without-match "defense" technical/911report/*.txt``
