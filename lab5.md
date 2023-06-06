@@ -36,6 +36,7 @@ Now I run ``bash test.sh``, all the tests passed! Thank you!
 I used the repo from lab7 for this scenario.
 
 The files structure is shown below.
+
 ![steps](structure.png)
 
 Contents in each file:
