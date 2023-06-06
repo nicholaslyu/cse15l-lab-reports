@@ -5,9 +5,11 @@
 Hi, I encountered an error when I tried to run the Junit tests. 
 
 **What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?**
+
 I am using Mac/IOS system with Vscode to do my coding tasks.
 
 **Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avoid saying “it doesn't work”.**
+
 So my problem is that when I tried to run the **test.sh** file, an **initializationError** pops out. 
 ![steps](debug.png)
 
@@ -19,15 +21,18 @@ The screenshots are my junit tests and ``test.sh``. Anyone can help?
 ![steps](junit.png)
 
 **TA's response:**
+
 Please check your ``test.sh`` file, especially the second line. Did you run the ``java`` files correctly?
 
 **Student's response**
+
 Thanks! Now I fix it. I simply removed ``.java`` from the end of the second line in ``test.sh``. We shouldn't put ``.java`` at the end of the file we want to run using ``java`` command.
 Now I run ``bash test.sh``, all the tests passed! Thank you!
 ![steps](fixed.png)
 
 
 **Setup information**
+
 I used the repo from lab7 for this scenario.
 
 The files structure is shown below.
