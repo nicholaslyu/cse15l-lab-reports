@@ -3,6 +3,7 @@
 
 **Student's post:**
 Hi, I encountered an error when I tried to run the Junit tests. 
+
 **What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?**
 I am using Mac/IOS system with Vscode to do my coding tasks.
 
