@@ -1,5 +1,5 @@
 ## Lab Report 5
-###Debugging
+### Debugging
 
 **Student's post:**
 Hi, I encountered an error when I tried to run the Junit tests. 
